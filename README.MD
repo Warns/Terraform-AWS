@@ -33,8 +33,10 @@ Note:
 
 Inorder to execute terraform script follow the below commands 
 
-terraform init 
+terraform init                           
+
 terraform plan
+
 terraform apply 
 
 
