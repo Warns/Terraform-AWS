@@ -3,9 +3,7 @@ Provisioning an AWS EC2 Instance using "Terraform"
 
 At first create a directory called "terrfaorm" and then we should have the below three files in it.
 
-first-ec2.tf 
-providers.tf
-variables.tf
+first-ec2.tf ,  providers.tf  , variables.tf
 
 first-ec2.tf  --> contains the below resource blocks in the terraform file 
 
