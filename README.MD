@@ -20,9 +20,11 @@ providers.tf  --> contains the provider details ( in our case i have used 'AWS')
 
 variables.tf --> Contains the variables as ( ami , aws key-name , instance-name), values can be passed at the time execution 
 
-ami = ami-0533f2ba8a1995cf9
-key = your aws key name
-instance-name = first-tf-ec2
+ami --> ami-0533f2ba8a1995cf9
+
+key -->  your aws key name
+
+instance-name --> first-tf-ec2
 
 Note:
 =====
